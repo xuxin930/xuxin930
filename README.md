@@ -1,4 +1,4 @@
-###   Hi! Good to see you on my Github page!
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2990BE&background=8D97FF00&width=435&lines=%F0%9F%91%8BHi%2CGood+to+see+you+on+my+Github+page!)](https://git.io/typing-svg)
 
 <!-- ###   Some Links
 
@@ -9,26 +9,31 @@
 [![](https://img.shields.io/badge/Bilibili-black?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/182381763)
 [![](https://img.shields.io/badge/ZhiHu-black?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/)
 [![](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/AnoyiX)
--->
+
 ###   Devices
 
 [![](https://img.shields.io/badge/-Macbook%20Pro%20-black?style=flat-square&logo=apple)](https://www.apple.com/macbook-pro-13/)
 [![](https://img.shields.io/badge/-Ubuntu%20Desktop%20-black?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
+-->
+### 📚 Languages
+![](https://skillicons.dev/icons?perline=15&i=c,java,cmake,python,rust,scala,bash,html)
 
-###   All Skills
+### 🧰 Skills
+![](https://skillicons.dev/icons?perline=10&i=vim,neovim,git,vscode,idea,spring,maven,redis,mysql,flask,md,linux,docker,kubernetes,ansible,grafana,nginx,jenkins)
 
-![](https://skillicons.dev/icons?perline=10&i=github,gitlab,git,stackoverflow,vscode,idea,vim,js,html,c,python,java,spring,maven,redis,mysql,flask,md,linux,bash,docker,kubernetes,ansible,grafana,prometheus,nginx,jenkins,cmake,neovim,rust,scala)
+### 🤩 Activity Graph
 
-###   Activity Graph
+[![xuxin930's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xuxin930&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![](https://activity-graph.herokuapp.com/graph?username=xuxin930&bg_color=1c1917&color=ffffff&line=216E39&point=32C15F&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph)
-
-###   Commit Stats
+### 🌟 Commit Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=xuxin930&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=xuxin930&theme=radical&row=1)
 
+<!--
+
 ###   Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xuxin930&layout=compact&theme=dark)
+-->
