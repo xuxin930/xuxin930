@@ -1,4 +1,4 @@
-[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2990BE&background=8D97FF00&width=435&lines=%F0%9F%91%8BHi%2CGood+to+see+you+on+my+Github+page!)](https://git.io/typing-svg)
+[![](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=2990BE&background=8D97FF00&width=435&lines=%F0%9F%91%8BHi%2CGood+to+see+you+on+my+GitHub+page!)](https://git.io/typing-svg)
 
 <!-- ###   Some Links
 
@@ -19,7 +19,7 @@
 ![](https://skillicons.dev/icons?perline=15&i=c,java,cmake,python,rust,scala,bash,html)
 
 ### 🧰 Skills
-![](https://skillicons.dev/icons?perline=10&i=vim,neovim,git,vscode,idea,spring,maven,redis,mysql,flask,md,linux,docker,kubernetes,ansible,grafana,nginx,jenkins)
+![](https://skillicons.dev/icons?perline=20&i=vim,neovim,git,vscode,idea,spring,maven,redis,mysql,flask,md,linux,docker,kubernetes,ansible,grafana,nginx,jenkins)
 
 ### 🤩 Activity Graph
 
